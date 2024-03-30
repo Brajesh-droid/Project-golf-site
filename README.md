@@ -13,7 +13,7 @@ Are you a golf enthusiast looking for an immersive online experience? Look no fu
 
 ## Preview
 
-![Golf Site Clone Preview](preview.png)
+[![Golf Site Clone Preview] (https://brajesh-droid.github.io/Project-golf-site/)
 
 ## Installation
 
